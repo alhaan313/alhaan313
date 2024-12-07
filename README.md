@@ -11,10 +11,10 @@
 
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-caleb-chaparro-orozco-32a128192/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhaan/)  
 
 # 📊 GitHub Streak:  
-![](https://github-readme-streak-stats.herokuapp.com/?user=DavidCalebChaparroOrozco&theme=monokai&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=alhaan313&theme=monokai&hide_border=false)  
 
 ### ✍️ Random Dev Quote  
 _"If you are working 100 hours a week, you will achieve in four months what it takes others a year to accomplish." – Elon Musk_  
