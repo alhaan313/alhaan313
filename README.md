@@ -1,6 +1,7 @@
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=F7DC6F&center=true&vCenter=true&width=500&lines=Code.+Learn.+Repeat.;Success+is+not+occasional%2C+it's+consistent!;Chasing+growth%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=F7DC6F&center=true&vCenter=true&width=500&lines=Code.+Learn.+Repeat.;Success+is+consistent%2C+not+occasional!;Chasing+growth%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+
 
 # 💫 About Me:  
 👨‍💻 I am a Software Developer.  
