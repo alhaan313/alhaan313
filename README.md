@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhaan/)  
 
 # 📊 GitHub Streak:  
-![](https://github-readme-streak-stats.herokuapp.com/?user=alhaan313&theme=monokai&hide_border=false)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=alhaan313)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote  
 _"If you are working 100 hours a week, you will achieve in four months what it takes others a year to accomplish." – Elon Musk_  
